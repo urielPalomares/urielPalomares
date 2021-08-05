@@ -10,12 +10,11 @@
 
 ### Front End
 
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vuejs](https://img.shields.io/badge/-VueJS-000?&logo=VueJS)
 
 ### Others Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
